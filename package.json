@@ -2,6 +2,8 @@
   "name": "my-doc-saurus",
   "version": "0.0.0",
   "private": true,
+  "url": "https://Ito-Kenta.github.io",
+  "baseUrl": "/MyDocSaurus/",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
