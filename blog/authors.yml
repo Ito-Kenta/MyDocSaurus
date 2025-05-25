@@ -1,3 +1,10 @@
+itoken:
+  name: Ito Kenta
+  title: Sortware engineer. Author of this page.
+  page: true
+  socials:
+    github: Ito-Kenta
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
