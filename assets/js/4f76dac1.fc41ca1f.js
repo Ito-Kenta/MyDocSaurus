@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_doc_saurus=self.webpackChunkmy_doc_saurus||[]).push([[967],{4644:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/MyDocSaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

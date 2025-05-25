@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_doc_saurus=self.webpackChunkmy_doc_saurus||[]).push([[472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First post","permalink":"/MyDocSaurus/blog/2025/05/25/\u6700\u521d\u306e\u6295\u7a3f","unlisted":false,"date":"2025-05-25T00:00:00.000Z"}]}')}}]);

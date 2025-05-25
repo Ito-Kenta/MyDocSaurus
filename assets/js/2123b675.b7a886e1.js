@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_doc_saurus=self.webpackChunkmy_doc_saurus||[]).push([[53],{7179:s=>{s.exports=JSON.parse('{"tags":[{"label":"Next.js","permalink":"/MyDocSaurus/blog/tags/nextjs","count":1},{"label":"Cloudflare","permalink":"/MyDocSaurus/blog/tags/cloudflare","count":1}]}')}}]);

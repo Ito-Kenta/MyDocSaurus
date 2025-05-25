@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_doc_saurus=self.webpackChunkmy_doc_saurus||[]).push([[714],{6232:e=>{e.exports=JSON.parse('{"authors":[{"name":"Ito Kenta","title":"Sortware engineer. Author of this page.","page":{"permalink":"/MyDocSaurus/blog/authors/itoken"},"socials":{"github":"https://github.com/Ito-Kenta"},"key":"itoken","count":1}]}')}}]);
