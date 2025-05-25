@@ -74,8 +74,7 @@ const config: Config = {
         src: 'img/AmanoPiscis.png',
       },
       items: [
-        // {to: '/blog', label: 'Blog', position: 'left'},
-        {to: "/tech_blog", label: "Tech Blog", position: "left"},
+        {to: '/blog', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',
