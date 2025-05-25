@@ -2,3 +2,11 @@ docusaurus:
   label: Docusaurus
   permalink: /docusaurus
   description: Docusaurus tag description
+
+Cloudflare:
+  label: Cloudflare
+  permalink: cloudflare
+
+Next.js:
+  label: Next.js
+  permalink: nextjs
